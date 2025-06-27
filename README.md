@@ -38,7 +38,5 @@ A cozy personal book tracker where users can log books, track reading goals, and
 
 ## 📫 Let's Connect
 
-- 💼 [www.linkedin.com/in/
-bhavana-pendyala
-](#) 
+- 💼 [www.linkedin.com/in/bhavana-pendyala](#) 
 - 📧 bhavanapendyala9@gmail.com
