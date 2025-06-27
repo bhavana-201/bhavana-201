@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hey there, I'm Bhavana!
 
-<!--
-**bhavana-201/bhavana-201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Science student | 💻 Web Developer & Java Coder | 📚 Tech Enthusiast  
+Currently building full-stack skills and working on personal projects that solve real problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages:** Java (OOP, DSA), JavaScript  
+- **Frontend:** HTML, CSS, JavaScript, React (in progress)  
+- **Backend:** Node.js, Express (learning)  
+- **Database:** MongoDB, PostgreSQL (basics)  
+- **Tools:** Git, GitHub, Postman, Netlify, VS Code
+
+---
+
+## 📌 Projects
+
+### 🔖 [BookNest](https://github.com/bhavana-201/booknest)  
+A cozy personal book tracker where users can log books, track reading goals, and personalize their library.
+
+**Highlights:**
+- 📚 Track books by status (To Read, Reading, Completed)
+- 🔐 Integrated **Google OAuth** login for secure, personalized experience
+- 🎨 Clean and aesthetic UI (HTML/CSS, React planned)
+- 🚀 More features coming soon (notes, reminders, analytics)
+
+---
+
+## 🔥 Currently Working On
+
+- Completing the **BookNest** backend with Node.js + MongoDB  
+- Learning and integrating **React** into BookNest  
+- Java-based projects (console + DSA)  
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [www.linkedin.com/in/
+bhavana-pendyala
+](#) 
+- 📧 bhavanapendyala9@gmail.com
