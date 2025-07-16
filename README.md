@@ -1,10 +1,10 @@
-<!-- Typing Banner -->
 <h1 align="center">Hey there, I'm Bhavana 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=F7971E&center=true&vCenter=true&width=600&lines=👩‍💻+Final+Year+CS+Undergrad;🚀+React+%7C+MERN+%7C+DSA;🎮+Curious+about+games+&+graphics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=F7971E&center=true&vCenter=true&width=600&lines=👩‍💻+Final+Year+CS+Undergrad;🚀+Java+%7C+Frontend Dev+%7C+DSA;🎮+Curious+About+Games;" alt="Typing SVG" />
 </p>
 
-<!-- 🌈 Floating Emoji GIFs -->
+<!-- ✨ Floating Emoji GIFs -->
 <p align="center">
   <img src="https://media.tenor.com/qwKXDID-h2YAAAAi/laptop-cute.gif" width="50" />
   <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/rocket-space.gif" width="50" />
@@ -15,23 +15,17 @@
 ---
 
 ## 👩‍💻 About Me
-<table>
-<tr>
-<td width="60%">
-  
-- 🎓 Final Year B.Tech CSE  
-- ⚒️ Frontend dev & Java explorer  
-- 🎮 Gameplay programming + interactive UI fan  
-- 🛠️ Building [**BookNest**](#) 
-- 🧠 Focus: React, DSA, Java
-- ✨ Love clean design, deep focus, and planning!
 
-</td>
-<td>
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="230"/>
-</td>
-</tr>
-</table>
+<div align="justify">
+Hi! I'm Bhavana, a final-year CS undergrad who's super into frontend dev, little bit of design, and building fun + useful projects.  
+I'm currently immersed in React, Data Structures & Algorithms, and documenting every line of growth through BookNest.  
+While I'm still carving out my path toward gameplay programming, my dream is to someday build experiences that feel magical just like the games I love.  
+I believe in clean code, clean design, and deep intentional living 💫
+</div>
+
+<p align="right">
+  <img src="https://media.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif" width="220" />
+</p>
 
 ---
 
@@ -43,6 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </p>
 
@@ -58,16 +53,17 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhavana-201&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bhavana-201&theme=gruvbox-light&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
-## 📚 Currently 
-- ⚛️ React.js  
-- 📈 Data Structures and Algorithms
-- 🕹️ Exploring my path into the game industry, one line of code at a time
-- 🌐 Git & GitHub
+## 📚 Currently Learning
+
+- ⚛️ React.js
+- 📈 Data Structures and Algorithms 
+- 🎮 Exploring gameplay roles — slowly building my entry point  
+
 ---
 
 ## 📬 Reach Out to Me!
@@ -82,13 +78,7 @@
 
 ---
 
-## 🧿 Bonus: Contribution Snake!
+## 🐾 Cat Walks You Out...
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bhavana-201/bhavana-201/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F7971E&section=footer"/>
+  <img src="https://raw.githubusercontent.com/Ankit404butfound/Ankit404butfound/main/assets/kitty-run.gif" width="150"/>
 </p>
