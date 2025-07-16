@@ -5,7 +5,6 @@
 </p>
 
 ---
----
 ## 👩‍💻 About Me
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 30px; flex-wrap: wrap;">
@@ -19,7 +18,7 @@
 
 </div>
 
-<img src="https://camo.githubusercontent.com/6f85d3a9ddca0ffa491da49c112d86afc412509d08ba926846575f427555e937/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f72657369%3Afit%3a944%2f0%2a4t8-xz-b98ZcvEH.gif" width="150"/>
+<img src="https://camo.githubusercontent.com/6f85d3a9ddca0ffa491da49c112d86afc412509d08ba926846575f427555e937/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3934342f302a463474382d787a2d6239385a637645482e676966" width="150"/>
 
 </div>
 ---
