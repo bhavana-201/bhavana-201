@@ -1,18 +1,37 @@
-<!-- Banner Typing Section -->
+<!-- Typing Banner -->
 <h1 align="center">Hey there, I'm Bhavana 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=F7971E&center=true&vCenter=true&width=600&lines=👩‍💻+Final+Year+CS+Undergrad+%7C+SIET+2026;🚀+React+%7C+MERN+%7C+DSA+in+progress;🎮+Gameplay+Programming+Dreamer;📚+Currently+building+BookNest+and+SkillVault" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=F7971E&center=true&vCenter=true&width=600&lines=👩‍💻+Final+Year+CS+Undergrad;🚀+React+%7C+MERN+%7C+DSA;🎮+Curious+about+games+&+graphics" alt="Typing SVG" />
+</p>
+
+<!-- 🌈 Floating Emoji GIFs -->
+<p align="center">
+  <img src="https://media.tenor.com/qwKXDID-h2YAAAAi/laptop-cute.gif" width="50" />
+  <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/rocket-space.gif" width="50" />
+  <img src="https://media.tenor.com/bCfpwMjfAi0AAAAi/coding.gif" width="50" />
+  <img src="https://media.tenor.com/hDLnz6lXVYkAAAAi/game.gif" width="50" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
-- 🎓 Final Year B.Tech CSE @ SIET (2022–2026)
-- ⚒️ Fullstack dev, React lover & Java explorer
-- 🎮 Passionate about gameplay programming & interactive UI
-- 🛠️ Building [**BookNest**](#) & [**SkillVault**](#)
-- 🧠 Currently focused on: React, DSA (Striver), and Game Dev
-- ✨ I love clean design, deep focus, and planning with intention.
+<table>
+<tr>
+<td width="60%">
+  
+- 🎓 Final Year B.Tech CSE  
+- ⚒️ Frontend dev & Java explorer  
+- 🎮 Gameplay programming + interactive UI fan  
+- 🛠️ Building [**BookNest**](#) 
+- 🧠 Focus: React, DSA, Java
+- ✨ Love clean design, deep focus, and planning!
+
+</td>
+<td>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="230"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -44,12 +63,11 @@
 
 ---
 
-## 📚 Currently Learning
-- ⚛️ React.js (useState, useEffect, API calls)
-- 📈 Striver’s DSA Sheet (Linked Lists ✅)
-- 🕹️ Basics of Game Development (C++, design patterns)
-- 🌐 Git & GitHub for personal projects
-
+## 📚 Currently 
+- ⚛️ React.js  
+- 📈 Data Structures and Algorithms
+- 🕹️ Exploring my path into the game industry, one line of code at a time
+- 🌐 Git & GitHub
 ---
 
 ## 📬 Reach Out to Me!
@@ -60,14 +78,6 @@
   <a href="https://www.linkedin.com/in/bhavanapendyala/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 🎨 Visual Vibe
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 </p>
 
 ---
