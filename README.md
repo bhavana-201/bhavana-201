@@ -7,7 +7,7 @@
 ---
 ## 👩‍💻 About Me
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 30px; flex-wrap: wrap;">
 
 <div align="left" style="max-width: 400px;">
   
