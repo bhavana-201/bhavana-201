@@ -5,24 +5,25 @@
 </p>
 
 ---
-
 ## 👩‍💻 About Me
 
-<table>
-<tr>
-<td width="60%">
+Hi there! 😊 I'm Bhavana — a final-year CS undergrad who's  
+✨ super into **frontend development**, 🎨 a bit of design, and  
+💡 passionate about building **fun + useful projects**.
 
-Hi! I'm Bhavana, a final-year CS undergrad who's super into frontend dev, a little bit of design, and building fun + useful projects.  
-I'm currently immersed in React, Data Structures & Algorithms, and documenting every line of growth through BookNest.  
-While I'm still carving out my path toward gameplay programming, my dream is to someday build experiences that feel magical just like the games I love.  
-I believe in clean code, clean design, and deep intentional living 💫
+Right now, I'm deep-diving into  
+⚛️ React, 📚 Data Structures & Algorithms, and  
+📘 documenting every bit of growth through **BookNest**.
 
-</td>
-<td>
+🎮 While I’m still carving out my way into **gameplay programming**,  
+my dream is to someday build experiences that feel magical —  
+just like the games I grew up loving.  
+
+I’m all about: clean code 🧼, clean design 🎀, and intentional living 🌱  
+
+<p align="right">
   <img src="https://camo.githubusercontent.com/6f85d3a9ddca0ffa491da49c112d86afc412509d08ba926846575f427555e937/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3934342f302a463474382d787a2d6239385a637645482e676966" width="220"/>
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
