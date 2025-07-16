@@ -1,22 +1,16 @@
 <h1 align="center">Hey there, I'm Bhavana 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=F7971E&center=true&vCenter=true&width=600&lines=👩‍💻+Final+Year+CS+Undergrad;🚀+Java+%7C+Frontend Dev+%7C+DSA;🎮+Curious+About+Games;" alt="Typing SVG" />
-</p>
-
-<!-- ✨ Floating Emoji GIFs -->
-<p align="center">
-  <img src="https://media.tenor.com/qwKXDID-h2YAAAAi/laptop-cute.gif" width="50" />
-  <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/rocket-space.gif" width="50" />
-  <img src="https://media.tenor.com/bCfpwMjfAi0AAAAi/coding.gif" width="50" />
-  <img src="https://media.tenor.com/hDLnz6lXVYkAAAAi/game.gif" width="50" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=F7971E&center=true&vCenter=true&width=600&lines=👩‍💻+Final+Year+CS+Undergrad;🚀+Java+%7C+Frontend+Dev+%7C+DSA;🎮+Curious+About+Games;" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-<div align="justify">
+out Me
+
+<div align="left">
 Hi! I'm Bhavana, a final-year CS undergrad who's super into frontend dev, little bit of design, and building fun + useful projects.  
 I'm currently immersed in React, Data Structures & Algorithms, and documenting every line of growth through BookNest.  
 While I'm still carving out my path toward gameplay programming, my dream is to someday build experiences that feel magical just like the games I love.  
@@ -24,7 +18,7 @@ I believe in clean code, clean design, and deep intentional living 💫
 </div>
 
 <p align="right">
-  <img src="https://media.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif" width="220" />
+  <img src="https://camo.githubusercontent.com/6f85d3a9ddca0ffa491da49c112d86afc412509d08ba926846575f427555e937/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3934342f302a463474382d787a2d6239385a637645482e676966" width="220"/>
 </p>
 
 ---
@@ -55,7 +49,6 @@ I believe in clean code, clean design, and deep intentional living 💫
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bhavana-201&theme=gruvbox-light&no-frame=true&margin-w=10&margin-h=10" />
 </p>
-
 ---
 
 ## 📚 Currently Learning
@@ -78,7 +71,8 @@ I believe in clean code, clean design, and deep intentional living 💫
 
 ---
 
-## 🐾 Cat Walks You Out...
+## 🌸 Thanks for Visiting
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ankit404butfound/Ankit404butfound/main/assets/kitty-run.gif" width="150"/>
+  <i>Thanks for stopping by — keep building, keep blooming 🌸</i><br>
+  <img src="https://cdn.pixabay.com/animation/2023/05/08/09/50/09-50-35-291_512.gif" width="120"/>
 </p>
