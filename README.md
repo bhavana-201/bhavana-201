@@ -4,16 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=F7971E&center=true&vCenter=true&width=600&lines=👩‍💻+Final+Year+CS+Undergrad;🚀+Java+%7C+Frontend+Dev+%7C+DSA;🎮+Curious+About+Games;" alt="Typing SVG" />
 </p>
 
----
 ## 👩‍💻 About Me
 
 <img align="right" src="https://camo.githubusercontent.com/6f85d3a9ddca0ffa491da49c112d86afc412509d08ba926846575f427555e937/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3934342f302a463474382d787a2d6239385a637645482e676966" width="220">
 
-- 🎓 Final Year B.Tech CSE  
-- ⚒️ Super into Frontend Dev · Dabbling in Design · Java Explorer  
-- 🎮 Passionate about Gameplay Programming & Interactive UIs
+Hi! I'm Bhavana, a final-year CS undergrad who's super into frontend dev, a little bit of design, and building fun + useful projects.  
+I'm currently immersed in React, Data Structures & Algorithms, and trying to document my growth through project.  
+While I'm still carving out my path toward gameplay programming, my dream is to someday build experiences that feel magical just like the games I love.  
 
----
+
 
 ## 💻 Tech Stack  
 <div align="center">
@@ -33,7 +32,7 @@
 
 </div>
 
----
+
 
 ## 📊 GitHub Stats  
 <p align="center">
@@ -41,21 +40,19 @@
   <img src="https://streak-stats.demolab.com?user=bhavana-201&theme=radical&hide_border=true&border_radius=10" width="47%"/>
 </p>
 
----
 
 ## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bhavana-201&theme=gruvbox-light&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 
----
+
 
 ## 📚 Currently Learning
 - ⚛️ React.js  
 - 📈 Data Structures and Algorithms  
 - 🎮 Exploring gameplay roles — slowly building my entry point  
 
----
 
  ## ✨ Let's Catch Up! <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
 <p align="center">
@@ -72,5 +69,5 @@
 ## 🌸 Thanks for Visiting  
 <p align="center">
   <i>Thanks for stopping by — keep building, keep blooming 🌸</i><br>
-  <img src="https://cdn.pixabay.com/animation/2023/05/08/09/50/09-50-35-291_512.gif" width="120"/>
+  <img src="(https://github.com/user-attachments/assets/12e69b2c-f46f-4309-9a00-a3a26af11ded)" width="120"/>
 </p>
