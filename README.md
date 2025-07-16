@@ -8,11 +8,11 @@
 
 ## 👩‍💻 About Me
 
-<div align="justify">
-Hi! I'm Bhavana, a final-year CS undergrad who's super into frontend dev, little bit of design, and building fun + useful projects.  
-I'm currently immersed in React, Data Structures & Algorithms, and documenting every line of growth through BookNest.  
-While I'm still carving out my path toward gameplay programming, my dream is to someday build experiences that feel magical just like the games I love.  
-I believe in clean code, clean design, and deep intentional living 💫
+<div align="left">
+- 🎓 Final Year B.Tech CSE 
+- ⚒️ super into Frontend dev, bit of design & Java explorer
+- 🎮 Passionate about gameplay programming & interactive UI
+- ✨ I love clean code, , and planning with intention.
 </div>
 
 <p align="right">
@@ -59,7 +59,7 @@ I believe in clean code, clean design, and deep intentional living 💫
 
 ---
 
-**##Let's Catch** [<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">]
+ ## ✨ Let's Catch Up! [<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">]
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="50"/><br><br>
 
