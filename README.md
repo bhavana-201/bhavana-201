@@ -7,7 +7,7 @@
 ---
 ## 👩‍💻 About Me
 
-<img align="right" width="50%" src="https://camo.githubusercontent.com/6f85d3a9ddca0ffa491da49c112d86afc412509d08ba926846575f427555e937/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3934342f302a463474382d787a2d6239385a637645482e676966" width="150">
+<img align="right" src="https://camo.githubusercontent.com/6f85d3a9ddca0ffa491da49c112d86afc412509d08ba926846575f427555e937/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3934342f302a463474382d787a2d6239385a637645482e676966" width="150">
 - 🎓 Final Year B.Tech CSE  
 - ⚒️ Super into Frontend dev, bit of design & Java explorer  
 - 🎮 Passionate about gameplay programming & interactive UI  
