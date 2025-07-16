@@ -8,18 +8,21 @@
 
 ## 👩‍💻 About Me
 
-out Me
+<table>
+<tr>
+<td width="60%">
 
-<div align="left">
-Hi! I'm Bhavana, a final-year CS undergrad who's super into frontend dev, little bit of design, and building fun + useful projects.  
+Hi! I'm Bhavana, a final-year CS undergrad who's super into frontend dev, a little bit of design, and building fun + useful projects.  
 I'm currently immersed in React, Data Structures & Algorithms, and documenting every line of growth through BookNest.  
 While I'm still carving out my path toward gameplay programming, my dream is to someday build experiences that feel magical just like the games I love.  
 I believe in clean code, clean design, and deep intentional living 💫
-</div>
 
-<p align="right">
+</td>
+<td>
   <img src="https://camo.githubusercontent.com/6f85d3a9ddca0ffa491da49c112d86afc412509d08ba926846575f427555e937/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3934342f302a463474382d787a2d6239385a637645482e676966" width="220"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -49,12 +52,12 @@ I believe in clean code, clean design, and deep intentional living 💫
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bhavana-201&theme=gruvbox-light&no-frame=true&margin-w=10&margin-h=10" />
 </p>
+
 ---
 
 ## 📚 Currently Learning
-
-- ⚛️ React.js
-- 📈 Data Structures and Algorithms 
+- ⚛️ React.js  
+- 📈 Data Structures and Algorithms  
 - 🎮 Exploring gameplay roles — slowly building my entry point  
 
 ---
