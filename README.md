@@ -63,7 +63,7 @@ I’m all about: clean code 🧼, clean design 🎀, and intentional living 🌱
 
 ---
 
-## 📬 Reach Out to Me!
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="20">##Catch Up!
 <p align="center">
   <a href="mailto:bhavanapendyala9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
