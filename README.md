@@ -6,7 +6,8 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" src="https://camo.githubusercontent.com/6f85d3a9ddca0ffa491da49c112d86afc412509d08ba926846575f427555e937/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3934342f302a463474382d787a2d6239385a637645482e676966" width="220">
+<img align="right" src="https://camo.githubusercontent.com/6f85d3a9ddca0ffa491da49c112d86afc412509d08ba926846575f427555e937/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3934342f302a463474382d787a2d6239385a637645482e676966" style="max-width: 100%; height: auto;" width="auto">
+
 
 Hi! I'm Bhavana, a final-year CS undergrad who's super into frontend dev, a little bit of design, and building fun + useful projects.  
 I'm currently immersed in React, Data Structures & Algorithms, and trying to document my growth through project.  
