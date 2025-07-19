@@ -59,14 +59,14 @@ While I'm still carving out my path toward gameplay programming, my dream is to 
   <a href="mailto:bhavanapendyala9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/bhavanapendyala/" target="_blank">
+  <a href="www.linkedin.com/in/bhavana-pendyala" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 
-## 🌸 Thanks for Visiting  
+##  Thanks for Visiting 
 <p align="center">
-  <i>Thanks for stopping by — keep building, keep blooming 🌸</i><br>
+  <p>Everything here is work in progress <strong> <3 </strong> just like me.<p><br>
   <img src="(https://github.com/user-attachments/assets/12e69b2c-f46f-4309-9a00-a3a26af11ded)" width="120"/>
 </p>
