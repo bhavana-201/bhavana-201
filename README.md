@@ -49,7 +49,7 @@ While I'm still carving out my path toward gameplay programming, my dream is to 
 
 
 ## 📚 Currently Learning
-- ⚛️ React.js  
+- ⚛️ React.js, MUI 
 - 📈 Data Structures and Algorithms  
 - 🎮 Exploring gameplay roles — slowly building my entry point  
 
