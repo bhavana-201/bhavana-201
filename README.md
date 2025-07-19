@@ -59,7 +59,7 @@ While I'm still carving out my path toward gameplay programming, my dream is to 
   <a href="mailto:bhavanapendyala9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/bhavana-pendyala" target="_blank">
+  <a href="https://www.linkedin.com/in/bhavana-pendyala" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
