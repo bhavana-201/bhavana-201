@@ -10,7 +10,7 @@
 
 Hi! I'm Bhavana, a final-year CS undergrad who's super into frontend dev, a little bit of design, and building fun + useful projects.  
 I'm currently immersed in React, Data Structures & Algorithms, and trying to document my growth through projects.  
-While I'm still carving out my path toward gameplay programming, my dream is to someday build experiences that feel magical — just like the games I love.
+While I'm still carving out my path toward gameplay programming, my dream is to someday build experiences that feel magical just like the games I love.
 
 ## 💻 Tech Stack  
 <div align="center">
@@ -32,26 +32,25 @@ While I'm still carving out my path toward gameplay programming, my dream is to 
 
 </div>
 
-
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavana-201&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="47%"/>
-  <img src="https://streak-stats.demolab.com?user=bhavana-201&theme=radical&hide_border=true&border_radius=10" width="47%"/>
-</p>
-
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhavana-201&theme=gruvbox-light&no-frame=true&margin-w=10&margin-h=10" />
-</p>
-
-
-
 ## 📚 Currently Learning
 - ⚛️ React.js, MUI 
 - 📈 Data Structures and Algorithms  
-- 🎮 Exploring gameplay roles — slowly building my entry point  
+- 🎮 Exploring gameplay roles ~slowly building my entry point  
+
+<h2 align="center">📊 GitHub Stats & Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavana-201&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavana-201&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhavana-201&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bhavana-201&theme=onedark&margin-w=15&no-frame=true&column=4" alt="GitHub Trophies"/>
+</p>
 
 
  ## ✨ Let's Catch Up! <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
@@ -66,7 +65,4 @@ While I'm still carving out my path toward gameplay programming, my dream is to 
 
 
 ##  Thanks for Visiting 
-<p align="center">
-  <p>Everything here is work in progress <strong> <3 </strong> just like me.<p><br>
-  <img src="(https://github.com/user-attachments/assets/12e69b2c-f46f-4309-9a00-a3a26af11ded)" width="120"/>
-</p>
+<p align="center">Everything here is work in progress <strong> <3 </strong> just like me.<p>
